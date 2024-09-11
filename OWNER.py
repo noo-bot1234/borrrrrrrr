@@ -7,7 +7,7 @@ load_dotenv()
 
 OWNER = ["nor_o", "nor_o"]
 OWNER_NAME = "𓏺 َِ𝘾َِ𝘳- َِ𝙉َِ𝘰َِ𝙐َِ𝘳 Ꮠ͋͢➢𝙀َِ𝘭َِ𝙃َِ𝘢َِ𝙆َِ𝘦َِ𝙈⤸"
-BOT_TOKEN = "7368267652:AAHvE4hJ97fkZxy3LXUxGWQqDQJUmXpzsWQ"
+BOT_TOKEN = "7368267652:AAFyMwgD320AahVOMlL4nOP3g69rGLjMZnA"
 DATABASE = "mongodb+srv://vv1vbvg:tahLdAddP2xj6R5b@cluster0.4xpikbs.mongodb.net"
 CHANNEL = "https://t.me/vzo_a"
 GROUP = "https://t.me/cr_nox"
