@@ -14,3 +14,4 @@ GROUP = "https://t.me/cr_nox"
 VIDEO = "https://t.me/vzo_a/19"
 PHOTO = "path_to_your_photo"  # تأكد من تحديث المسار أو القيمة المطلوبة
 LOGS = "nor_o"
+VID_SO = "some_value"  # أضف هذا السطر مع القيمة المناسبة
