@@ -6,14 +6,11 @@ from pyrogram import filters
 
 load_dotenv()
 
-OWNER = ["E_Z_9"]
-OWNER_NAME = "𓏺 َِ𝗕َِ𝗲َِ𝗟َِ𝗮َِ𝗟 َِ𝗻َِ𝗢َِ𝘁 َِ𝗦َِ𝗵َِ𝗔َِ𝗱َِ𝗢َِ𝘄 ."
-BOT_TOKEN = getenv("BOT_TOKEN")
-DATABASE = getenv("MONGO_DB_URI", None)
-HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
-HEROKU_API_KEY = getenv("HEROKU_API_KEY")
-CHANNEL = "https://t.me/BE_XB"
-GROUP = "https://t.me/BE_XB"
-VID_SO = "https://telegra.ph/file/bf1273e084a0fb135ab5a.jpg"
-PHOTO = "https://telegra.ph/file/bf1273e084a0fb135ab5a.jpg"
-LOGS = "jabababbab"
+OWNER = ["nor_o", "nor_o"]
+OWNER_NAME = "𓏺 َِ𝘾َِ𝘳- َِ𝙉َِ𝘰َِ𝙐َِ𝘳 Ꮠ͋͢➢𝙀َِ𝘭َِ𝙃َِ𝘢َِ𝙆َِ𝘦َِ𝙈⤸"
+BOT_TOKEN = "7368267652:AAHvE4hJ97fkZxy3LXUxGWQqDQJUmXpzsWQ"
+DATABASE = "mongodb+srv://vv1vbvg:tahLdAddP2xj6R5b@cluster0.4xpikbs.mongodb.net"
+CHANNEL = "https://t.me/vzo_a"
+GROUP = "https://t.me/cr_nox"
+VIDEO = "https://t.me/vzo_a/19"
+LOGS = "nor_o"
